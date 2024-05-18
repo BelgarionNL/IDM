@@ -43,7 +43,7 @@ To ensure accuracy, please install so that the top surface of the sensor coil pl
 Clone ```IDM``` from git and run the install script:
 ```
 cd ~
-git clone https://github.com/BelgarionNL/IDM-probe.git
+git clone https://github.com/BelgarionNL/IDM.git
 ./IDM/install.sh
 ```
 
